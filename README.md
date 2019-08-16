@@ -1,6 +1,6 @@
 # Webcerebrium-based Crypto Trading Bot
 
-A crypto trading bot for the Binance exchange that uses the webcerebrium Java Binance API
+A crypto trading bot for the Binance exchange that uses the [Webcerebrium Java Binance API](https://github.com/webcerebrium/java-binance-api)
 
 ## Issues
 
